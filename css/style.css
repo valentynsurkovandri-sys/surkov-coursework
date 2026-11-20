@@ -11,6 +11,9 @@
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
+/* Атрибут hidden має завжди ховати елемент (навіть якщо в класу є display) */
+[hidden] { display: none !important; }
+
 body {
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   background: var(--bg);
