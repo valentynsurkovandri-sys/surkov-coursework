@@ -4,7 +4,7 @@
 Тема 16: **Розробка прогресивного веб-застосунку (PWA) з підтримкою роботи офлайн**.
 
 **Автор:** Сурков Валентин  
-**Робочий URL:** https://valentynsurkovandri-sys.github.io/surkov-coursework/  
+**Робочий URL:** https://surkov-coursework.vercel.app/  
 **Макети Figma:** https://www.figma.com/design/zQJ0mmqcBt64X5hHDVLCJG
 
 ## Можливості
@@ -16,7 +16,7 @@
 - адаптивна верстка (360 / 768 / 1280 px).
 
 ## Технології
-HTML5, CSS3 (Grid, Flexbox, медіа-запити), JavaScript (ES6+), Service Worker, Cache API, IndexedDB, Web App Manifest, GitHub Pages.
+HTML5, CSS3 (Grid, Flexbox, медіа-запити), JavaScript (ES6+), Service Worker, Cache API, IndexedDB, Web App Manifest, Vercel.
 
 ## Структура
 ```
