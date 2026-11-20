@@ -1,5 +1,5 @@
 // Service Worker: кешує файли сайту, щоб він працював офлайн
-const CACHE_NAME = 'notes-v1';
+const CACHE_NAME = 'notes-v3';
 
 const FILES_TO_CACHE = [
   './',

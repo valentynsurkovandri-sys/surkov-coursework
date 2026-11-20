@@ -132,3 +132,16 @@ textarea { resize: vertical; }
   .container { max-width: 1200px; }
   .notes { grid-template-columns: repeat(3, 1fr); }
 }
+
+/* Мобільний (до 767px) — як у макеті Figma */
+@media (max-width: 767px) {
+  /* кнопка «Додати» на всю ширину форми */
+  .note-form__actions .btn { flex: 1; }
+
+  /* якщо є кнопка «Встановити» — переносимо статус і кнопку на другий рядок */
+  .header:has(#installBtn:not([hidden])) { flex-wrap: wrap; }
+  .header:has(#installBtn:not([hidden])) .header__right {
+    width: 100%;
+    justify-content: space-between;
+  }
+}
