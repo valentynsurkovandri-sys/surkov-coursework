@@ -37,7 +37,7 @@
     },
     {
       "src": "icons/screenshot-narrow.png",
-      "sizes": "358x903",
+      "sizes": "358x820",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Нотатки на телефоні"
