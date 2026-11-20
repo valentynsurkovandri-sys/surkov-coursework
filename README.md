@@ -4,7 +4,8 @@
 Тема 16: **Розробка прогресивного веб-застосунку (PWA) з підтримкою роботи офлайн**.
 
 **Автор:** Сурков Валентин  
-**Робочий URL:** https://valentynsurkovandri-sys.github.io/surkov-coursework/
+**Робочий URL:** https://valentynsurkovandri-sys.github.io/surkov-coursework/  
+**Макети Figma:** https://www.figma.com/design/zQJ0mmqcBt64X5hHDVLCJG
 
 ## Можливості
 - створення, редагування, видалення та пошук нотаток;
